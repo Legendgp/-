@@ -1,0 +1,2 @@
+# BackgroundPositioningContinuesToUpload
+通过持续更新后台位置来保证应用不被kill
